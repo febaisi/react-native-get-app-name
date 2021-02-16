@@ -1,5 +1,5 @@
 # react-native-get-app-name
-Super lightweight library with few to none peer dependencies to get the app name.
+Super lightweight library with few to none peer dependencies to get the app name thorugh native calls.
 <br>
 ## Getting started
 
