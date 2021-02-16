@@ -1,5 +1,6 @@
 # react-native-get-app-name
-
+Super lightweight library with few to none peer dependencies to get the app name.
+<br>
 ## Getting started
 
 `$ npm install react-native-get-app-name --save`
