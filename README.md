@@ -5,7 +5,7 @@
 `$ npm install react-native-get-app-name --save`
 
 ### Mostly automatic installation
-
+If you are under RN .60 - otherwise skip this.
 `$ react-native link react-native-get-app-name`
 
 ## Usage
