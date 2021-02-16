@@ -12,6 +12,7 @@
 ```javascript
 import GetAppName from 'react-native-get-app-name';
 
-// TODO: What to do with the module?
-GetAppName;
+GetAppName.getAppName((appName) => {
+   console.log("Here is your app name:", appName)      
+})
 ```
